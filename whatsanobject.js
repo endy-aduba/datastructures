@@ -1,0 +1,2 @@
+// //Basic Data Structures: Add Key-Value Pairs to JavaScript Objects
+// At their most basic, objects are just collections of key-value pairs, or in other words, pieces of data mapped to unique identifiers that we call properties or keys
