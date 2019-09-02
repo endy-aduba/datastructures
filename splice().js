@@ -15,3 +15,4 @@ let array = ['I', 'am', 'feeling', 'really', 'happy'];
 
 let newArray = array.splice(3, 2);
 // newArray equals ['really', 'happy']
+
